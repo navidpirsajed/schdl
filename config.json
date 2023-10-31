@@ -1,0 +1,6 @@
+{
+    "server_port": 80,
+    "use_gpu": true,
+    "ocr_lang": "en",
+    "min_confidence": 80
+}
